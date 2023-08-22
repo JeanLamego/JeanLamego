@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=31dae0&height=180&section=header&text=JeanLamego&fontSize=30&fontColor=0077B5&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=31dae0&height=180&section=header&text=JeanLamego&fontSize=30&fontColor=0077d3&animation=twinkling&fontAlignY=35"/>
 
 <!-- CONTACT-->
 <div align="center">
@@ -39,6 +39,16 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"></td>
     <td><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="50"></td>
     <td><img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="50"></td>
+   </tr>
+   <!--     <td>Work Tools</td> -->
+   <td><img src="https://icongr.am/devicon/java-original.svg?size=128&color=ffffff" width="50"></td>
+    <td><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://w7.pngwing.com/pngs/321/703/png-transparent-computer-icons-github-logo-github-monochrome-rim-black-and-white.png" width="50"></td>
+    <td><img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"></td>
+   
    </tr>
 
 </table>

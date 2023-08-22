@@ -43,7 +43,7 @@
    <!--     <td>Work Tools</td> -->
    <td><img src="https://icongr.am/devicon/java-original.svg?size=128&color=ffffff" width="50"></td>
     <td><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="50"></td>
-    <td><img src="https://w7.pngwing.com/pngs/321/703/png-transparent-computer-icons-github-logo-github-monochrome-rim-black-and-white.png" width="50"></td>
+    <td><img src="https://w7.pngwing.com/pngs/321/703/png-transparent-computer-icons-github-logo-github-monochrome-rim-black-and-white.png?size=128&color=ffffff" width="50"></td>
     <td><img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" width="50"></td>
     <td><img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="50"></td>
     <td><img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="50"></td>

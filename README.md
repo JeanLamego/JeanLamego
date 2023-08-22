@@ -22,7 +22,7 @@
 
 <!-- STATS -->
 <div align="center">  
-  <img width="400px" height="220px" src="https://github-readme-stats.vercel.app/api?username=JeanLamego&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=7f5af0&text_color=fff&bg_color=0d1117" alt="Jean Lamego github stats" /> 
+  <img width="400px" height="220px" src="https://github-readme-stats.vercel.app/api?username=JeanLamego&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=0077B5&text_color=fff&bg_color=0d1117" alt="Jean Lamego github stats" /> 
   <img width="350px" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLamego&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 <!-- ./STATS -->
@@ -43,11 +43,11 @@
    <!--     <td>Work Tools</td> -->
    <td><img src="https://icongr.am/devicon/java-original.svg?size=128&color=ffffff" width="50"></td>
     <td><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="50"></td>
-    <td><img src="https://w7.pngwing.com/pngs/321/703/png-transparent-computer-icons-github-logo-github-monochrome-rim-black-and-white.png?size=128&color=ffffff" width="50"></td>
     <td><img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" width="50"></td>
     <td><img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="50"></td>
     <td><img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="50"></td>
     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"></td>
+     <td><img src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" width="50"></td>
    
    </tr>
 

@@ -18,7 +18,7 @@
  <!-- ./TEXT -->
  
  <!-- RESUME-->
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanLamego&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF9C24&fire=FF9C24&currStreakLabel=FF9C24" alt="Marlon Frade" /></div>  -->
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanLamego&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF9C24&fire=FF9C24&currStreakLabel=FF9C24" alt="Jean Lamego" /></div>  -->
  <!-- ./RESUME -->
 
 # Oie devs 👋
@@ -34,43 +34,18 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 <!-- ICONS-->
 <hr>
+
 <table align="center">
   <tr>
-## Linguagens e ferramentas
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"></td>
+    <td><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffffffg" width="50"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"></td>
+    <td><img src="https://icongr.am/devicon/angularjs-plain.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="50"></td>
+    <td><img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="50"></td>
+   </tr>
+    
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=31dae0&height=120&section=footer"/>
 
-## Status
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-
-<br>
-
-## Rede sociais
-
-🏡 [Website][website] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]

@@ -22,7 +22,7 @@
 
 <!-- STATS -->
 <div align="center">  
-  <img width="400px" height="220px" src="https://github-readme-stats.vercel.app/api?username=JeanLamego&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=0077B5&text_color=fff&bg_color=0d1117" alt="Jean Lamego github stats" /> 
+  <img width="400px" height="220px" src="https://github-readme-stats.vercel.app/api?username=JeanLamego&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=fff&icon_color=0077B5&text_color=fff&bg_color=0d1117" alt="Jean Lamego github stats" /> 
   <img width="350px" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLamego&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 <!-- ./STATS -->

@@ -14,7 +14,7 @@
 
   
  <!-- TEXT-->
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077B5&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+To+Jean+Lamego's+GitHub!;I+am+Specialized+in+WEB+DEVELOPMENT;I+Have+2+Years+of+Expertise+In+Programming;If+You+Like+My+Work+Follow+And+Reach+Me;Thanks+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077B5&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+To+Jean+Lamego's+GitHub!;I+am+Specialized+in+WEB+DEVELOPMENT;I+Have+5+Years+of+Expertise+In+Programming;If+You+Like+My+Work+Follow+And+Reach+Me;Thanks+:%29)](https://git.io/typing-svg)
  <!-- ./TEXT -->
  
  <!-- RESUME-->

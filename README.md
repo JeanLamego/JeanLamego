@@ -13,12 +13,12 @@
 ### Things I built
 
 <div align="center">
-  <a href="https://guto-ta-de-olho.vercel.app/"><img src="assets/apps/gutotadeolho.svg" width="49%" alt="GutoTaDeOlho"/></a>
-  <img src="assets/apps/guto-bot.svg" width="49%" alt="Guto Bot"/>
-  <img src="assets/apps/gutotadedieta.svg" width="49%" alt="GutoTaDeDieta"/>
-  <img src="assets/apps/fita-led.svg" width="49%" alt="Fita LED"/>
-  <img src="assets/apps/cinequest.svg" width="49%" alt="CineQuest"/>
-  <a href="https://www.atlanticstudio.com.br"><img src="assets/apps/atlantic.svg" width="49%" alt="Atlantic Studio"/></a>
+  <a href="https://guto-ta-de-olho.vercel.app/"><img src="assets/apps/gutotadeolho.png" width="49%" alt="GutoTaDeOlho"/></a>
+  <img src="assets/apps/guto-bot.png" width="49%" alt="Guto Bot"/>
+  <img src="assets/apps/gutotadedieta.png" width="49%" alt="GutoTaDeDieta"/>
+  <img src="assets/apps/fita-led.png" width="49%" alt="Fita LED"/>
+  <img src="assets/apps/cinequest.png" width="49%" alt="CineQuest"/>
+  <a href="https://www.atlanticstudio.com.br"><img src="assets/apps/atlantic.png" width="49%" alt="Atlantic Studio"/></a>
 </div>
 
 ### Stack
